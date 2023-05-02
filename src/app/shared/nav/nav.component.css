@@ -1,0 +1,33 @@
+nav {
+  background-color: #FFB347;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  color: #FFFFFF;
+  font-size: 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: block;
+  padding: 15px 20px;
+}
+
+nav a:hover {
+  background-color: #F7B718;
+}

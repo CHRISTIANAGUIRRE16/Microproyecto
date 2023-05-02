@@ -1,0 +1,16 @@
+header {
+  background-color: #F7B718;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo h1 {
+  color: #FFFFFF;
+  font-size: 28px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: 0;
+  letter-spacing: 2px;
+}

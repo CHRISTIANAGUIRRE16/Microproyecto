@@ -1,0 +1,49 @@
+#contactanos {
+  background-color: #FFF8E1;
+  padding: 50px;
+  text-align: center;
+}
+
+#contactanos h2 {
+  color: #F57C00;
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+
+#contactanos form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#contactanos label {
+  display: block;
+  color: #6D4C41;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+#contactanos input,
+#contactanos textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: none;
+}
+
+#contactanos textarea {
+  height: 150px;
+}
+
+#contactanos button {
+  background-color: #F57C00;
+  color: #FFF8E1;
+  font-size: 20px;
+  padding: 10px 30px;
+  border: none;
+  cursor: pointer;
+}
+#contactanos button:hover {
+  background-color: #fff;
+  color: #FFA500;
+  border: 1px solid #FFA500;
+}
